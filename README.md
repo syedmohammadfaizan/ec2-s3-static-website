@@ -22,8 +22,7 @@ This project demonstrates how to host a static website on **AWS EC2 using Nginx*
 
 ## 📸 Screenshot
 ![Website Screenshot](screenshots/final-website.png)
-![ec2-setup.png](screenshots/ec2-setup.png.png)
-![Screenshot (376)](screenshots/Screenshot (376).png)
+![ec2-setup](screenshots/ec2-setup.png.png)
 ![s3-bucket](screenshots/s3-bucket.png)
 
 ---
